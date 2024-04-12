@@ -1,0 +1,15 @@
+{  
+  "name": "yasu",  
+  "version": "20.1.1",  
+  "description": "帮助您迅速且精确地评估两段文本之间的相似程度。",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git", 
+    "url": "https://github.com/zerokongz/yasu" 
+  },  
+  "license": "ISC", 
+  "homepage": "https://github.com/zerokongz/yasu#readme"
+}
